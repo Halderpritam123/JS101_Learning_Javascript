@@ -1,0 +1,18 @@
+  let name="Pritam Halder";
+  let school="Diamond Harbour High School";
+  let grade ="XII";
+  let section = "A"; 
+  let rollno = 6;
+console.log("Name    : "+name);
+console.log("School  : "+school);
+console.log("Grade   : "+grade);
+console.log("Section : "+section);
+console.log("Roll No : "+rollno);
+console.log("..............................");
+let phyNo=98;
+let chemNo=95;
+let mathNo=100;
+console.log("    Subject    "+"    Marks    ");
+console.log("    Physics    "+"      "+phyNo);
+console.log("   Chemistry   "+"      "+chemNo);
+console.log("  Mathematics  "+"     "+mathNo);
